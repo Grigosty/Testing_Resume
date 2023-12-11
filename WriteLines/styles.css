@@ -1,0 +1,29 @@
+canvas{
+    background-color: black;
+    border: 2px solid gray;
+}
+
+.color-pero-choose{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.color-back-choose{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.settings{
+    display: flex;
+    justify-content:space-around;
+}
+
+.cleaner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+    margin-top: 10px;
+}
