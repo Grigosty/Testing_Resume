@@ -1,0 +1,7 @@
+1) There is no argument given that corresponds to the required parameter 'dating' of 'Date.Print(DateTime)'
+2)'Date' does not contain a definition for 'Previous' and no accessible extension method 'Previous' accepting a first argument of type 'Date' could be found (are you missing a using directive or an assembly reference?)
+3)'DateTime' does not contain a definition for 'Print' and no accessible extension method 'Print' accepting a first argument of type 'DateTime' could be found (are you missing a using directive or an assembly reference?)
+4) The type or namespace name 'CultureInfo' could not be found (are you missing a using directive or an assembly reference?)
+5) The type or namespace name 'CultureInfo' could not be found (are you missing a using directive or an assembly reference?)
+6) The name 'CultureInfo' does not exist in the current context 
+7) The name 'CultureInfo' does not exist in the current context 

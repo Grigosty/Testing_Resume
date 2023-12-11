@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\bin\Debug\net7.0\WorkWithDate.exe
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\bin\Debug\net7.0\WorkWithDate.deps.json
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\bin\Debug\net7.0\WorkWithDate.runtimeconfig.json
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\bin\Debug\net7.0\WorkWithDate.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\bin\Debug\net7.0\WorkWithDate.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.AssemblyInfo.cs
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\refint\WorkWithDate.dll
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.pdb
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\WorkWithDate.genruntimeconfig.cache
+C:\Users\Admin\Desktop\учеба\мои проекты\C#\WorkWithDate\WorkWithDate\obj\Debug\net7.0\ref\WorkWithDate.dll
