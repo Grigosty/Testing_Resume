@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Создание сайтов для чайников</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header style="display: flex;justify-content: center;">
+        <h1 class="regHeader">Авторизация</h1>
+    </header>
+    <main class="regBody" style="display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px 0;">
+        <form action="#" method="post" class="form-container">
+        <label></label>
+        <input placeholder="Введите email" type="email" class="inameout" name="inameout" id="iNameId" style="width: 192px; height: 30px;" required>
+        <input placeholder="Введите пароль" type="password" class="ipassout" name="ipassout" style="width: 192px; height: 30px;" required>
+        <button type="button" class="gradient-button" id="bt2" style="width: 200px;">Войти</button>
+        <div style="display:flex; width:fit-content">
+          <h5>Запомнить логин и пароль?</h5>
+          <input type="checkbox" id="checkBox"> 
+        </div>
+               
+        <button type="submit" id="btReg"style="border: none; background-color:#D9D9D9D9 ">Зарегистрироваться</button>
+        </form>
+    </main>
+    
+  </body>
+  <script src="authScript.js"></script>
+
+</html>
